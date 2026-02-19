@@ -1,4 +1,4 @@
-ok so here i will be writing it and i want to someone to make a program or make it into a code so ok
+ok so here i will be writing it and i want to someone to make a program or make it into a code so ok (future: i just learned python, i am trying to replace some commands with these but some will not work because its python not noobie)
 
 say = like print only in output
 type = means for text that you can see like text
